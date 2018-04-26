@@ -4,6 +4,7 @@ Kickstart your html document with a simple key command.
 Just press control-shift-h and some html begining text will pop up.
 
 html text:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,6 +16,6 @@ html text:
 
 </body>
 </html>
-
+```
 Or do this:
 ![](https://j.gifs.com/BLj9jn.gif)
