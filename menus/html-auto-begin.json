@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Add basic html",
+        "command": "html-auto-begin:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "html-auto-begin",
+          "submenu": [
+            {
+              "label": "Add basic html",
+              "command": "html-auto-begin:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
